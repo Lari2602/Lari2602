@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Larissa Leandro
 
-**`Developer web`**
+**`Web developer`**
 
 My name is Larissa Leandro, I'm 18 years old and originally from Pernambuco. I completed high school at SESI, with a technical course in internet computing. I am currently studying information security at Cesar School. I am a passionate enthusiast about technology, design and innovation. Always looking for opportunities in the programming area, where I can apply my creativity, analytical skills and passion for problem solving.
 
